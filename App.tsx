@@ -23,8 +23,7 @@ const App: React.FC = () => {
       <nav className="fixed top-0 w-full z-40 bg-white/80 backdrop-blur-md border-b border-gray-100 transition-all">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <div className="text-2xl font-extrabold text-primary flex items-center gap-2">
-            <span className="bg-primary text-white p-1 rounded">H</span>
-            HIVOME PLUS
+            VIHOME PLUS
           </div>
           <div className="hidden md:flex space-x-8 font-medium text-gray-600">
             <a href="#" className="hover:text-primary transition-colors">Trang Chủ</a>
